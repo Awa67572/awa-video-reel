@@ -4,6 +4,8 @@ A free Claude Code skill by Awa K. Penn that edits your short videos so every vi
 
 **[Download awa-video-reel.zip](https://github.com/Awa67572/awa-video-reel/releases/latest/download/awa-video-reel.zip)**
 
+New to this? Follow the [step-by-step guide (PDF)](awa-video-reel-step-by-step.pdf).
+
 ## What it does
 
 Drop in a video (up to 1 minute) and type `/awa-video-reel`. It adds:
