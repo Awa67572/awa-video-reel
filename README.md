@@ -6,6 +6,8 @@ A free Claude Code skill by Awa K. Penn that edits your short videos so every vi
 
 New to this? Follow the [step-by-step guide (PDF)](awa-video-reel-step-by-step.pdf).
 
+<p align="center"><img src="preview.gif" width="320" alt="awa-video-reel at work: face-tracked effects, captions, website b-roll, then the prompt pasted into Claude Code"></p>
+
 ## What it does
 
 Drop in a video (up to 1 minute) and type `/awa-video-reel`. It adds:
@@ -15,6 +17,7 @@ Drop in a video (up to 1 minute) and type `/awa-video-reel`. It adds:
 - punch-ins, a slow push and an optional cinematic look
 - music that dips under your voice, and a sound on every change
 - website b-roll: mention a site and it asks if you want it recorded, then opens it in Chrome and scrolls and clicks with a visible cursor
+- the follow-through: copy a prompt on the site, paste it into a real Claude Code window with your details typed in, then the result playing
 - an optional "Follow for more" card with your handle
 
 It shows you the plan first and renders only after you say yes. You get two MP4s: one with music, one without.
