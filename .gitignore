@@ -1,0 +1,7 @@
+node_modules/
+.venv/
+__pycache__/
+*.pyc
+jobs-folder.txt
+music/.analysis.json
+.DS_Store
