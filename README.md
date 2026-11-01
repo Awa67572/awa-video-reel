@@ -1,6 +1,6 @@
 # awa-video-reel
 
-A free Claude Code skill by Awa K. Penn that edits your short videos so every visual and sound lands on the words you say.
+A free, open-source Claude Code skill by Awa K. Penn that edits your short videos so every visual and sound lands on the words you say. MIT licence.
 
 **[Download awa-video-reel.zip](https://github.com/Awa67572/awa-video-reel/releases/latest/download/awa-video-reel.zip)**
 
@@ -52,6 +52,12 @@ Or open Claude Code and paste: "Install the skill in this folder: [path to the u
 **Prefer to take it straight from the source?** Click **Code → Download ZIP** on this page (or run `git clone https://github.com/Awa67572/awa-video-reel`), then copy the `awa-video-reel` folder inside it into `~/.claude/skills/`.
 
 You also need Google Chrome (or Edge), Node.js 20+, Python 3.11 or 3.12 and ffmpeg. The full list and tips are in [`INSTALL.md`](awa-video-reel/INSTALL.md).
+
+## Licence
+
+awa-video-reel is open source under the [MIT licence](LICENSE): use it, change it and share it, free, including for commercial work. Keep the licence notice with any copy.
+
+The bundled parts keep their own licences: the effects engine is MIT too ([`effects/LICENSE`](awa-video-reel/effects/LICENSE)), the music and sound effects are listed with their licences in their `CREDITS.md` files, and each font has its licence file next to it.
 
 ## Credits
 
