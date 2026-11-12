@@ -4,8 +4,6 @@ A free, open-source Claude Code skill by Awa K. Penn that edits your short video
 
 **[Download awa-video-reel.zip](https://github.com/Awa67572/awa-video-reel/releases/latest/download/awa-video-reel.zip)**
 
-New to this? Follow the [step-by-step guide (PDF)](awa-video-reel-step-by-step.pdf).
-
 The full source code is in the [`awa-video-reel`](awa-video-reel) folder on this page, so you can read every file before you install anything. The zip is that same folder.
 
 <p align="center"><img src="preview.gif" width="320" alt="awa-video-reel at work: face-tracked effects, captions, website b-roll, then the prompt pasted into Claude Code"></p>
